@@ -1,3 +1,3 @@
 function function1(){
-    document.write(5 + 7)
+    window.alert(5 + 7)
 }
